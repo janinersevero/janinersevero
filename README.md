@@ -3,15 +3,34 @@
   </a>
 </h1>
 
-<h2>Stacks that I've used and Learned!</h2>
-<h5 align="center">
-  <p align="center">
+<h2> 💌 Stacks that I've used and Learned! </h2>
+<h5 align="left">
+  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,ts,kotlin,spring,java,c,html,css,bootstrap,docker,kubernetes,mysql,github,idea" />
+    <img src="https://skillicons.dev/icons?i=go,k8s,docker,java,spring,kotlin,c,mysql,supabase,aws,github,idea" />
   </a>
 </p>
 
-<h2>Where you can find me:</h2>
+
+<pre> 
+             .----.
+          _.'__    `.
+      .--(#)(##)---/#\
+    .' @          /###\
+    :         ,   #####
+     `-..__.-' _.-\###/
+jgs        `;_:    `"'
+         .'"""""`.
+        /, NINER ,\
+       //  COOL!  \\
+       `-._______.-'
+       ___`. | .'___
+      (______|______)
+</pre>
+
+<p> </p>
+
+<h2>💌 Where you can find me:</h2>
 <div>
 <a href="https://br.linkedin.com/in/janiner-severo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
